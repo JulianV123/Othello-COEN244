@@ -1,1 +1,1 @@
-The coen244_assignment2 folder contains all of the .cpp and .h files written to program a functionning Othello implementation using C++
+The coen244_assignment2 folder contains all of the .cpp and .h files written to program a functionning Othello implementation using C++. The List of Changes word file contains a UML diagram of the project
